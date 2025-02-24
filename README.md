@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Email**: [kigurupeter@gmail.com](mailto:kigurupeter@gmail.com)
 - **LinkedIn**: [Peter Kimani](www.linkedin.com/in/peter-kiguru
 
-)
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. Let's build something amazing together! 🚀
 ````
